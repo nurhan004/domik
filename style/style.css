@@ -379,18 +379,38 @@ font-weight: 600;
    
 
 .container{
-    width: 1200px;
+    width: 1900px;
     margin: 0 auto;
 }
+/* .blockNurhan{
+  background-color: #0d0c22;
+  width: 1920px;
+height: 949px;
+gap: 0px;
+opacity: 0px;
+
+} */
+
+.textNur{
+  width: 680px;
+height: 168px;
+font-size: 60px;
+font-weight: 800;
+line-height: 84px;
+letter-spacing: 0.02em;
+/* color: white; */
+
+
+
+
+}
+
 /* section2 */
 .block{
     position: relative;
     width: 1660px;
     height: 1040px;
-    top: 822px;
-    left: 260px;
-    gap: 0px;
-    opacity: 0px;   
+  
 }
 .find{
     width: 1192px;
@@ -518,10 +538,7 @@ h2{
 .block2{
     width: 1400px;
     height: 1510px;
-    top: 1646px;
-    left: 260px;
-    gap: 0px;
-    opacity: 0px; 
+  
     
 }
 .h{
@@ -543,7 +560,7 @@ h2{
 .card1{
     width: 440px;
     height: 600px;
-    box-shadow: 10px 10px 100px 10px;
+   
     
     
  
