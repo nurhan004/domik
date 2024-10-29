@@ -7,3 +7,50 @@
     width: 1200px;
     margin: 0 auto;
 }
+.mirbeksection5{
+    width: 1400px;
+    height: 936px;
+    margin-top: 360px;
+    margin-left: 260px;
+}
+.mirbekbox1{
+    font-size: 40px;
+}
+.mirbekbox2{
+    margin-top: 80px;
+    font-size: 22px;
+}
+.mimg1{
+    padding-left: 1293px;
+    align-items: center; 
+
+}
+.mirbektg{
+    margin-top: 25px;
+    position: relative;
+    
+    
+}
+.mirbektg01{
+    display: flex;
+    margin-top: 25px;
+    
+}
+.mirbekpluc{
+    margin-left: 1350px;
+    position: absolute;
+    font-size: 40px;
+}
+.mirbekplucc{
+    position: absolute;
+    margin-left: 1335px;
+}
+.mirbek111{
+    position: absolute;
+    margin-left: 1365px;
+    z-index: 2;
+    margin-top: 30px;
+}
+.mirbektop{
+    margin-top: 22px;
+}
